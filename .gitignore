@@ -1,0 +1,18 @@
+# Python derlenmiş dosyalar
+__pycache__/
+*.pyc
+
+# Yerel veritabanı
+sim.db
+
+# Streamlit cache
+.streamlit/cache/
+
+# Sanal ortam (varsa)
+.venv/
+venv/
+
+# OS/IDE dosyaları (isteğe bağlı)
+.DS_Store
+.idea/
+.vscode/
